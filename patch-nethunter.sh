@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 KERNEL_VERSION="1.0"
 NETHUNTER_KERNEL_DIR="kali-nethunter-kernel"
