@@ -39,6 +39,8 @@
                   cpio
                   elfutils
                   pahole
+                  ncurses
+                  ncurses.dev
                 ]);
 
               runScript = "bash";
